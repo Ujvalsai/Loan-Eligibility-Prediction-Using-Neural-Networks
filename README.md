@@ -61,3 +61,7 @@ activation function)
 * Metrics : 'accuracy‘
 * Batch Size : 32
 * Epochs : 100
+
+# Conclusion
+
+By usibg the datasets and the training models we were able to predict the loan elgibility.
