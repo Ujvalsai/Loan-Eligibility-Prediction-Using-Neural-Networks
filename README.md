@@ -47,4 +47,4 @@ The implementation has 8 parts in it.,
 * The input layer is of size 11
 * There are two hidden layers each of size 32
 * Finally there a output layer of size 1
-![Model](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Model](https://github.com/Ujvalsai/Loan_Eligibility_Prediction_v2/blob/main/Model.PNG)
