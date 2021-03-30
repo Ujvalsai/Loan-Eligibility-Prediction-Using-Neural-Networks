@@ -48,3 +48,16 @@ The implementation has 8 parts in it.,
 * There are two hidden layers each of size 32
 * Finally there a output layer of size 1
 ![Model](https://github.com/Ujvalsai/Loan_Eligibility_Prediction_v2/blob/main/Model.PNG)
+
+
+# Working Parameters And Weigths
+
+* The Activation function for two of the hidden layers is “relu”(rectified linear
+activation function)
+* We went with the basic one to keep it simple
+* The Activation function for Output Layer is “sigmoid”
+* Optimizer : 'sgd'(Stochastic gradient descent)
+* Loss : 'binary crossentropy'
+* Metrics : 'accuracy‘
+* Batch Size : 32
+* Epochs : 100
