@@ -35,15 +35,15 @@ The implementation has 8 parts in it.,
 
 # Data Selection
 
--> We got the datasets from a github profile
--> LINK : https://github.com/shrikant-temburwar/Loan-Prediction-Dataset
--> There are 12 columns which we use for inputs
--> The 13th column is the loan approval status
+* We got the datasets from a github profile
+* LINK : https://github.com/shrikant-temburwar/Loan-Prediction-Dataset
+* There are 12 columns which we use for inputs
+* The 13th column is the loan approval status
 
 # Architecture
 
--> We will be using a 4 step multilayer
--> Feedforward network
--> The input layer is of size 11
--> There are two hidden layers each of size 32
--> Finally there a output layer of size 1
+* We will be using a 4 step multilayer
+* Feedforward network
+* The input layer is of size 11
+* There are two hidden layers each of size 32
+* Finally there a output layer of size 1
